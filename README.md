@@ -6,7 +6,7 @@ I’m a telecom data science professional with experience in customer experience
 
 Currently focused on **Applied AI and Agentic AI**, building end-to-end systems that combine LLM reasoning with deterministic analytics, tool calling, RAG and MCP.
 
-## 🚀 Featured Project
+## Featured Project
 
 ### Telecom Site Intelligence Agent
 
@@ -26,7 +26,7 @@ An end-to-end Agentic AI prototype for telecom site investigation.
 
 [View the project →](https://github.com/ahmed-elbaz/telecom-site-intelligence-agent)
 
-## 🛠️ Technical Focus
+## Technical Focus
 
 **AI & ML:** LLMs, Agentic AI, RAG, Machine Learning, Deep Learning  
 **Data & Analytics:** Python, pandas, scikit-learn, SQL, DuckDB  
@@ -34,7 +34,7 @@ An end-to-end Agentic AI prototype for telecom site investigation.
 **Visualization:** Streamlit, Tableau, Power BI  
 **Domain:** Telecom Analytics, Customer Experience, Network Intelligence
 
-## 📌 Other Work
+## Other Work
 
 My repositories also include projects in **telecom network analytics, deep learning, computer vision and cloud-based machine learning**.
 
