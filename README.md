@@ -8,23 +8,34 @@ Currently focused on **Applied AI and Agentic AI**, building end-to-end systems 
 
 ## Featured Project
 
-### Telecom Site Intelligence Agent
+### AnomalyX: ML-Powered Anomaly Detection & Agentic AI Investigation
 
-An end-to-end Agentic AI prototype for telecom site investigation.
+An end-to-end AI application that combines machine learning with agentic investigation to detect unusual e-commerce behavior, analyze supporting evidence and generate actionable reports.
 
-- **LLM orchestration and tool calling**
-- **Deterministic telecom analytics** for KPI analysis and customer impact
-- **Peer benchmarking and ranking**
-- **RAG-based troubleshooting knowledge**
-- **MCP tool integration**
-- **Conversational investigation** through Streamlit
-- **Automated regression testing**
+- **Machine Learning:** Local Outlier Factor (LOF) achieving 90.5% precision, 100% recall, and 95% F1-score on labeled synthetic data
+- **Agentic AI:** Single-agent LangGraph workflow with five investigation tools
+- **Local LLM:** Qwen3:8b through Ollama
+- **RAG:** Knowledge retrieval to support investigations
+- **Evidence Validation:** Deterministic numerical checks and structured investigation reports
+- **Interactive Dashboard:** Streamlit interface for anomaly detection, automated investigations and natural-language requests
 
 **Core principle:**
 
-> Python owns analytical truth; the LLM owns orchestration and communication.
+> Machine learning detects unusual behavior; agentic AI investigates it using validated evidence.
 
-[View the project →](https://github.com/ahmed-elbaz/telecom-site-intelligence-agent)
+[View AnomalyX on GitHub](https://github.com/ahmed-elbaz/AnomalyX)
+
+## Additional Project
+
+### Telecom Site Intelligence Agent
+
+An Agentic AI prototype for telecom site investigation, combining deterministic network analytics with LLM-based orchestration.
+
+- Telecom KPI analysis, customer impact assessment and peer benchmarking
+- LLM tool calling, RAG-based troubleshooting and MCP integration
+- Conversational investigation through Streamlit
+
+[View Telecom Site Intelligence Agent](https://github.com/ahmed-elbaz/telecom-site-intelligence-agent)
 
 ## Technical Focus
 
